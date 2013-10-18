@@ -28,7 +28,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import static org.junit.Assert.*;
 
-import com.heliosmi.euler.problem.MainService;
+import com.heliosmi.euler.math.MainService;
 
 /*
  * If we list all the natural numbers below 10 that are multiples of 3 or 5,
